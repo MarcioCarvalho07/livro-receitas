@@ -1,9 +1,5 @@
 # Frozen de Iogurte com Frutas Vermelhas :cake:
 
-![frozen-de-iogurte-com-frutas-vermelhas-01-730x913](C:\Users\MAC\Desktop\frozen-de-iogurte-com-frutas-vermelhas-01-730x913.jpg)
-
-
-
 ### Ingredientes
 
 - 2 potes de iogurte natural
